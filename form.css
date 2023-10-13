@@ -1,0 +1,45 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: #178eea;
+    color: #cdf2fa;
+    display: grid;
+    place-items: center;
+    padding-top: 20px;
+
+}
+
+.heading {
+    font-family: "Roboto";
+    text-align: center;
+
+}
+
+.background-container {
+    background-color: #ffffff;
+    color: black;
+    padding: 15px;
+}
+
+.input-bar {
+    height: 30px;
+    width: 240px;
+    margin-right: 10px;
+}
+
+.suggestion-box {
+    height: 80px;
+    width: 100%;
+}
+
+.button {
+    height: 30px;
+    width: 100px;
+    color: #cdf2fa;
+    background-color: #1d96f2;
+    border: 0;
+}
+
+.span-item {
+    color: #1c1e73;
+}
